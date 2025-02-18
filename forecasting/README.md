@@ -1,0 +1,7 @@
+## Contents 📚
+
+| 🏷 **Title**            | 📄 **Description**                                   | 🛠 **Technology/Tool**    | 🔗 **Link**      |
+|-------------------------|------------------------------------------------------|---------------------------|-------------------|
+| **Training a Model with Vertex AI Forecast** | Demonstrates training a forecasting model using the Iowa Liquor Sales dataset from BigQuery Public Datasets. Covers creating a managed dataset, importing data from a BigQuery table, updating column metadata for AutoML, and training a model with budget and optimization objectives. Includes data preparation, model building, and training with Vertex AI AutoML. | `Vertex AI`, `AutoML`, `BigQuery`, `Time Series Forecasting` | [Notebook]() |
+| **Building a Forecasting Pipeline Using Vertex AI Python SDKs** | Covers creating a Vertex AI Workbench notebook instance, managing datasets, training a forecasting model, and making batch predictions using the Vertex AI Python SDK. | `Vertex AI`, `Python SDK`, `Forecasting`, `Machine Learning Pipeline` | [Notebook](sale-forecast-sdk) |
+| **Developing an End-to-End Forecasting Solution in Retail** | Demonstrates using AutoML to train and test a forecasting model, followed by making predictions. Covers the complete workflow, including importing retail sales data, training the model, evaluating performance, and running batch predictions. | `Vertex AI`, `AutoML`, `Retail Forecasting`, `Time Series` | [Notebook](forecasting-retail) |

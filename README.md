@@ -40,7 +40,11 @@ Explore and implement powerful **AI and Machine Learning** solutions using **Goo
 | **Getting Started with Gemini for Pair Programming** | Introduction to using Gemini for pair programming. Covers setup, collaborative coding features for development tasks. | `Gemini`, `Pair Programming`, `AI Assistance` | [Notebook](pair-programming/getting_started_gemini_pair_programming.ipynb) |
 | **Using a String Template with Gemini for Pair Programming** | Explore the use of string templates with Gemini to enhance pair programming workflows. Customize templates to streamline interactions and improve collaboration. | `Gemini`, `String Templates`, `Pair Programming` | [Notebook](pair-programming/string_template_gemini_pair_programming.ipynb) |
 | **Pair Programming Scenarios with Gemini** | Utilize Gemini for various pair programming tasks, including improving existing code, simplifying code, writing test cases, enhancing efficiency, and debugging. | `Gemini`, `Pair Programming`, `Code Optimization`, `Debugging` | [Notebook](pair-programming/pair_programming_scenarios_gemini.ipynb) |
-| **Technical Debt with Gemini** | Leverage Gemini to address technical debt by explaining and documenting complex codebases, simplifying maintenance and understanding. | `Gemini`, `Technical Debt`, `Code Documentation`, `Code Explanation` | [Notebook Link](pair-programming/technical_debt_gemini.ipynb) |
+| **Technical Debt with Gemini** | Leverage Gemini to address technical debt by explaining and documenting complex codebases, simplifying maintenance and understanding. | `Gemini`, `Technical Debt`, `Code Documentation`, `Code Explanation` | [Notebook](pair-programming/technical_debt_gemini.ipynb) |
+| **Getting Started with Vertex AI Text Embeddings API** | Introduction to using the Vertex AI Text-Embeddings API for generating embeddings. | `Vertex AI`, `Text Embeddings`| [Notebook](text-embeddings/getting_started_text_embeddings_vertex_ai.ipynb) |
+| **Vertex Forecasting and Time Series** | Covers building forecasting solutions with Google Cloud. Focuses on sequence models and time series foundations, following an end-to-end workflow from data preparation to model development and deployment with Vertex AI. Includes a retail use case for applying forecasting models. | `Vertex AI`, `Time Series`, `Forecasting`, `Google Cloud` | [Notebook](forecasting) |
+
+
 
 
 
